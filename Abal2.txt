@@ -11,3 +11,6 @@ git pull <name> <branch>
 git log
 git log -p
 git log -2 -p
+
+ok thx stephen
+SYN

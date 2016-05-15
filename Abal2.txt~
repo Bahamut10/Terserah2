@@ -1,0 +1,13 @@
+baru belajar aja
+wew
+
+git init
+git status
+git add <filename.extention>
+git commit -m "pesan"
+git remote add <name> <link>
+git push <name> <branch>
+git pull <name> <branch>
+git log
+git log -p
+git log -2 -p
